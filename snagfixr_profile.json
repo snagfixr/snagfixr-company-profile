@@ -1,0 +1,70 @@
+{
+  "company": {
+    "name": "SnagFixr",
+    "tagline": "Fixing Founders\u2019 Roadblocks, Quietly.",
+    "founded": 2024,
+    "headquarters": "Delhi NCR, Ahmedabad, India",
+    "size": "2\u201310 employees",
+    "website": "https://SnagFixr.com",
+    "contact": {
+      "email": "fix@snagfixr.com",
+      "phone": "+91 76 2206 2206",
+      "linkedin_company": "https://linkedin.com/company/snagfixr"
+    },
+    "overview": "SnagFixr is a professional execution service built to solve friction that stalls scaling startups. It specializes in resolving bottlenecks in operations, sourcing, production, usability, and GTM (go-to-market) flows. Unlike typical consultants or agencies, SnagFixr plugs directly into a team, quietly fixes what\u2019s stuck, and leaves behind scalable systems.",
+    "services": {
+      "fix_sprints": "Short-term, scoped projects (2\u20136 weeks) designed to address a defined problem fast.",
+      "retainers": "Embedded for 1\u20133 months, offering deep operational or vendor/supply-chain support."
+    },
+    "solutions": [
+      "Vendor sourcing, onboarding & ecosystem setup",
+      "Pilot production & launch readiness",
+      "Broken operational flows",
+      "Execution bottlenecks between functions",
+      "Cost & BOM optimization (avg. 25\u201330%)",
+      "B2B usability strategy",
+      "Factory onboarding, compliance, QC setup",
+      "GTM process cleanup, funnel gap detection",
+      "Supply chain misalignment"
+    ],
+    "use_cases": [
+      "VC-backed startups stuck between prototype and launch",
+      "D2C brands needing to localize China-dependent sourcing",
+      "Founders too stretched to untangle vendor/ops mess",
+      "SaaS teams needing UX and workflow audits",
+      "Internal teams too close to see what\u2019s broken"
+    ],
+    "differentiators": {
+      "execution_first": true,
+      "quiet_embedded_model": true,
+      "solo_but_full_stack": true,
+      "no_fluff_just_fixes": true,
+      "leaves_working_systems": true
+    },
+    "sample_case_study": "A VC-funded D2C startup had delayed its first 1,000-unit production run due to misaligned vendor specs, missing QC protocols, and no pilot testing system. SnagFixr dropped in, restructured vendor SLAs, set up first-article inspections, onboarded a new backup factory, and launched the pilot in 11 days. The fix cut launch delay by 45 days and prevented \u20b932L in RTO/rework losses."
+  },
+  "founder": {
+    "name": "Hitesh Bhagat",
+    "title": "Founder",
+    "location": "Delhi NCR, Ahmedabad, India",
+    "linkedin": "https://linkedin.com/in/hitesh-bhagat",
+    "bio": "Hitesh is a one-man execution unit for D2C, SaaS, IoT, and hardware startups. He steps in when founders hit a 'stall point' \u2014 such as a delayed product launch, broken ops chain, or usability dead zone \u2014 and quietly fixes it.",
+    "capabilities": [
+      "0-to-1 product buildouts",
+      "Vendor & factory ecosystem development",
+      "Cost structure analysis & optimization",
+      "Ops audit, cleanup, and re-alignment",
+      "Launch and GTM readiness",
+      "Creating systems that outlast the engagement",
+      "Quiet, high-impact execution"
+    ],
+    "highlights": [
+      "Scaled \u20b91 Cr \u2192 \u20b9450 Cr backend ops",
+      "Built world\u2019s largest hydroponic system in Angola",
+      "Delivered DRDO-approved hardware in 15 days",
+      "Built India\u2019s first extrusion-based soundbar body supply chain",
+      "Cut NPD cycle by 90 days",
+      "Drove 650% e-com growth for a D2C brand in 6 months"
+    ]
+  }
+}
