@@ -28,11 +28,26 @@
       "Supply chain misalignment"
     ],
     "use_cases": [
-      "VC-backed startups stuck between prototype and launch",
-      "D2C brands needing to localize China-dependent sourcing",
-      "Founders too stretched to untangle vendor/ops mess",
-      "SaaS teams needing UX and workflow audits",
-      "Internal teams too close to see what\u2019s broken"
+      "Pilot production readiness for early-stage hardware/D2C",
+      "Factory/vendor onboarding with QC and compliance setup",
+      "Cross-functional operations breakdown (e.g., sales \u2260 ops \u2260 finance)",
+      "Broken return/refund/warranty process in D2C or logistics-heavy startups",
+      "Scaling operations without documented systems or SOPs",
+      "Complex BOM with mismatched lead times or sourcing delays",
+      "Product launch blocked due to missing BIS/WPC/EPR certifications",
+      "High-MOQ vendor pressure with low-scale founder needs",
+      "Quality control systems missing or undefined acceptance criteria",
+      "SaaS product adoption drops after onboarding",
+      "B2B product not used by internal customer teams (workflow friction)",
+      "Misaligned user personas causing poor UX and poor retention",
+      "Hidden cost stack and pricing issues due to poor COGS tracking",
+      "GTM launches broken due to asset delays and miscoordination",
+      "Offline/online pricing conflicts and distributor friction",
+      "Founder is single-point-of-failure across product, ops, sourcing",
+      "No hiring bandwidth but need experienced ops/supply chain firepower",
+      "Delayed launch recovery due to stuck supply chain or unready product",
+      "Pre-GTM product sanity check before public launch",
+      "Getting ready for first 1,000 customers (logistics, support, GTM)"
     ],
     "differentiators": {
       "execution_first": true,
