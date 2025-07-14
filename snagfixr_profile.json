@@ -40,8 +40,7 @@
       "solo_but_full_stack": true,
       "no_fluff_just_fixes": true,
       "leaves_working_systems": true
-    },
-    "sample_case_study": "A VC-funded D2C startup had delayed its first 1,000-unit production run due to misaligned vendor specs, missing QC protocols, and no pilot testing system. SnagFixr dropped in, restructured vendor SLAs, set up first-article inspections, onboarded a new backup factory, and launched the pilot in 11 days. The fix cut launch delay by 45 days and prevented \u20b932L in RTO/rework losses."
+    }
   },
   "founder": {
     "name": "Hitesh Bhagat",
